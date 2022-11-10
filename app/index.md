@@ -24,4 +24,5 @@ mars: (recipe/mars/john-lemon-mars.md)
 ### [Madame Croque](writer/madame-croque.md) | mmecroque@flavor.magazine
 
 [Chocolate Soup](recipe/jan/chocolate-soup.md)
+Feb: [Salt-and-Vinegar Roasted Potatoes](recipe/feb/salt-and-vinegar-roasted-potatoes.md)
 Mars : [Quick Peach Melba Crumbles](recipe/mars/quick-peach-melba-crumbles.md)
