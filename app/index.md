@@ -19,6 +19,7 @@ Mars: [Asparagus with Cranberries and Pine Nuts](recipe/mars/asparagus-with-cran
 ### [John Lemon](writer/john-lemon.md) | zestmaster@flavor.magazine
 
 [Homemade Sausages](recipe/jan/homemade-sausages.md)
+avr: [Candied Carrots](recipe/avr/candied-carrots.md)
 [Gateau Yaourt](recipe/feb/gateau-yaourt.md)
 mars: (recipe/mars/john-lemon-mars.md)
 
