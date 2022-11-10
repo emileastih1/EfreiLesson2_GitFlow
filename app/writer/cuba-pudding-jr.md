@@ -5,3 +5,4 @@
 Recipe Picks:
 
 - January: [Grilled Peach Salad](../recipe/jan/grilled-peach-salad.md)
+- Mars: [Soupe de melon](../recipe/soupe_de_melon.md)
