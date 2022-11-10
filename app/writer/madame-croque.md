@@ -5,3 +5,4 @@
 Recipe Picks:
 
 - January: [Chocolate Soup](../recipe/jan/chocolate-soup.md)
+- Mars: [Quick Peach Melba Crumbles](../recipe/mars/quick-peach-melba-crumbles.md)

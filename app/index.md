@@ -24,3 +24,4 @@ mars: (recipe/mars/john-lemon-mars.md)
 ### [Madame Croque](writer/madame-croque.md) | mmecroque@flavor.magazine
 
 [Chocolate Soup](recipe/jan/chocolate-soup.md)
+Mars : [Quick Peach Melba Crumbles](recipe/mars/quick-peach-melba-crumbles.md)
