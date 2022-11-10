@@ -23,7 +23,7 @@ avr: [Candied Carrots](recipe/avr/candied-carrots.md)
 [Gateau Yaourt](recipe/feb/gateau-yaourt.md)
 mars: (recipe/mars/john-lemon-mars.md)
 
-### [Madame Croque](writer/madame-croque.md) | mmecroque@flavor.magazine
+### [Madame Croque](writer/madame-croque.md) |
 
 [Chocolate Soup](recipe/jan/chocolate-soup.md)
 Feb: [Salt-and-Vinegar Roasted Potatoes](recipe/feb/salt-and-vinegar-roasted-potatoes.md)
