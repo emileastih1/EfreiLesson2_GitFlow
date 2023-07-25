@@ -2,8 +2,6 @@
 
 Welcome to _Flavor_, the only place on the planet where your taste buds won't be disappointed!
 
-
-
 ## Picks of the Month
 
 ### [Cuba Pudding Jr.](writer/cuba-pudding-jr.md) | cubapud@flavor.magazine
@@ -21,3 +19,7 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 ### [Madame Croque](writer/madame-croque.md) | mmecroque@flavor.magazine
 
 [Chocolate Soup](recipe/jan/chocolate-soup.md)
+
+### [Mac Gump](writer/mac-gump.md) | macgump@flavor.magazine
+
+[Chocolate Soup](recipe/feb\caprese-mac-and-cheese.md)

@@ -4,4 +4,4 @@
 
 Recipe Picks:
 
-- January: [Homemade Sausages](../recipe/jan/mac-homemade-sausages.md)
+- February: [Caprese Mac and Cheese](../recipe/feb\caprese-mac-and-cheese.md)
