@@ -22,4 +22,4 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 ### [Mac Gump](writer/mac-gump.md) | macgump@flavor.magazine
 
-[Chocolate Soup](recipe/feb\caprese-mac-and-cheese.md)
+[Caprese Mac and Cheese](recipe/feb\caprese-mac-and-cheese.md)
