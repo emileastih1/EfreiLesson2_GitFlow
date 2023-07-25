@@ -14,7 +14,7 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 ### [John Lemon](writer/john-lemon.md) | zestmaster@flavor.magazine
 
-[Candied Carrots](recipe/feb/candied-carrots.md)
+[Homemade Sausages](recipe/jan/homemade-sausages.md)
 
 ### [Madame Croque](writer/madame-croque.md) | mmecroque@flavor.magazine
 
