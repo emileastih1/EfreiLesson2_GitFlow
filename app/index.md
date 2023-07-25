@@ -12,7 +12,7 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 ### [Eggs Benny](writer/eggs-benny.md) | englishmuffin@flavor.magazine
 
-[Vanilla Panna Cotta](recipe/jan/vanilla-panna-cotta.md)
+[Asparagus with Cranberries and Pine Nuts](recipe/feb/asparagus-with-cranberries-and-pine-nuts.md)
 
 ### [John Lemon](writer/john-lemon.md) | zestmaster@flavor.magazine
 
@@ -22,6 +22,3 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 [Chocolate Soup](recipe/jan/chocolate-soup.md)
 
-### [Eggs Benny](writer/Eggs Benny.md) | englishmuffin@flavor.magazine
-
-[Asparagus with Cranberries and Pine Nuts](recipe/feb/asparagus-with-cranberries-and-pine-nuts.md)
