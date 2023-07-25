@@ -5,3 +5,4 @@
 Recipe Picks:
 
 - January: [Chocolate Soup](../recipe/jan/chocolate-soup.md)
+- February: [Salt-and-Vinegar Roasted Potatoes](recipe/feb/salt-and-vinegar-roasted-potatoes.md)
