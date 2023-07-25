@@ -20,3 +20,7 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 [Chocolate Soup](recipe/jan/chocolate-soup.md)
 
+### [Mac Gump](writer/mac-gump.md) | macgump@flavor.magazine
+
+[Caprese Mac and Cheese](recipe/feb/caprese-mac-and-cheese.md)
+
