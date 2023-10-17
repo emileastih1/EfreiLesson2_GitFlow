@@ -24,6 +24,10 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 [Caprese Mac and Cheese](recipe/feb/caprese-mac-and-cheese.md)
 
+### [Magdalena Krysiak](writer/magdalena-krysiak.md) | magkry@flavor.magazine
+
+[Three-Bean Vegetarian Chili](recipe/mar/three-bean-vegetarian-chili.md)
+
 ### [Lu YANG](writer/White-Chicken-Chili.md) | luyang@flavor.magazine
 
 [White Chicken Chili](recipe/mar/White-Chicken-Chili.md)
@@ -42,3 +46,4 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 ### [Brian Budowick](writer/Brian-Budowick.md) | macgump@flavor.magazine
 
+[Candied Carrots](recipe/mar/candied-carrots-mar.md)
