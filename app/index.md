@@ -23,3 +23,7 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 ### [Mac Gump](writer/mac-gump.md) | macgump@flavor.magazine
 
 [Caprese Mac and Cheese](recipe/feb/caprese-mac-and-cheese.md)
+
+### [Jonathan Young](writer/jonathan-young.md) | joanthan.young@efrei.net
+
+[Boilermaker Tailgate Chili](recipe/mar/boilermaker-tailgate-chili.md)
