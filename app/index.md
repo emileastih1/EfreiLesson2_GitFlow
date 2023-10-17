@@ -27,3 +27,11 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 ### [Magdalena Krysiak](writer/magdalena-krysiak.md) | magkry@flavor.magazine
 
 [Three-Bean Vegetarian Chili](recipe/mar/three-bean-vegetarian-chili.md)
+
+### [Daniel Fontana](writer/daniel-fontana.md) | danielfontana@flavor.magazine
+
+[Peposa Dell'Impruneta](recipe/mar/peposa-dellimpruneta.md)
+
+### [Brian Budowick](writer/Brian-Budowick.md) | macgump@flavor.magazine
+
+[Candied Carrots](recipe/mar/candied-carrots-mar.md)
