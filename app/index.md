@@ -28,6 +28,10 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 [Caprese Mac and Cheese](recipe/feb/caprese-mac-and-cheese.md)
 
+### [Curtis Kruse](writer/curtis-krus.md) | curtiskrus@flavor.magazine
+
+[Instant Pot Chicken Paprikash](recipe/mar/instant-pot-chicken-paprikash.md)
+
 ### [Matteo Ferrea](writer/matteo-ferrea.md) | matteoferrea@flavor.magazine
 
 [Cincinnati Chili I](recipe/mar/Cincinnati_Chili_I.md)
@@ -75,3 +79,4 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 ### [Sylvester Scone](writer/sylvester-scone.md) | sylvesterscone@flavor.magazine
 
 [Wicked Easy Chili](recipe/mar/wiked-easy-chili.md)
+
