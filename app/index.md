@@ -24,7 +24,6 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 [Caprese Mac and Cheese](recipe/feb/caprese-mac-and-cheese.md)
 
-
 ### [Aaron Brown](writer/Quick Oatmeal)| aaron.brown@efrei.net
 [Quick Oatmeal (C:\E_Home-data\CORE TEAM\_SOFTWARE_X\GIT\GIT RECIPE2\EfreiLesson2_GitFlow\app\writer)
 
@@ -52,3 +51,6 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 [Candied Carrots](recipe/mar/candied-carrots-mar.md)
 
+### [Sylvester Scone](writer/sylvester-scone.md) | sylvesterscone@flavor.magazine
+
+[Wicked Easy Chili](recipe/mar/wiked-easy-chili.md)
