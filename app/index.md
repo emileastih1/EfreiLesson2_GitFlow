@@ -22,6 +22,8 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 ### [Mac Gump](writer/mac-gump.md) | macgump@flavor.magazine
 
-[Pulled Pork Sandwich](recipe/mar/roast-pork-sandwiches.md)
+[Caprese Mac and Cheese](recipe/feb/caprese-mac-and-cheese.md)
 
 ### [Claude Hartwick](writer/claude-hartwick.md) | ch@flavor.magazine
+
+[Roast Pork Sandwiches](recipe/mar/roast-pork-sandwiches.md)
