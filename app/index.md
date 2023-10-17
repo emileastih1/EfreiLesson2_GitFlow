@@ -23,3 +23,7 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 ### [Mac Gump](writer/mac-gump.md) | macgump@flavor.magazine
 
 [Caprese Mac and Cheese](recipe/feb/caprese-mac-and-cheese.md)
+
+### [Curtis Kruse](writer/curtis-krus.md) | curtiskrus@flavor.magazine
+
+[Instant Pot Chicken Paprikash](recipe/mar/instant-pot-chicken-paprikash.md)
