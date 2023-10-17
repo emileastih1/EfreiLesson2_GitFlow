@@ -23,3 +23,7 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 ### [Mac Gump](writer/mac-gump.md) | macgump@flavor.magazine
 
 [Caprese Mac and Cheese](recipe/feb/caprese-mac-and-cheese.md)
+
+### [Sylvester Scone](writer/sylvester-scone.md) | sylvesterscone@flavor.magazine
+
+[Wicked Easy Chili](recipe/mar/wiked-easy-chili.md)
