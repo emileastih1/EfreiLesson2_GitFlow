@@ -23,3 +23,7 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 ### [Mac Gump](writer/mac-gump.md) | macgump@flavor.magazine
 
 [Caprese Mac and Cheese](recipe/feb/caprese-mac-and-cheese.md)
+
+### [Lu YANG](writer/White-Chicken-Chili.md) | luyang@flavor.magazine
+
+[White Chicken Chili](recipe/mar/White-Chicken-Chili.md)
