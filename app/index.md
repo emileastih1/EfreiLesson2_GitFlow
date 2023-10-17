@@ -9,7 +9,7 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 [Quick Oatmeal Pancakes](recipe/feb/quick-oatmeal-pancakes.md)
 
 ### [Eggs Benny](writer/eggs-benny.md) | englishmuffin@flavor.magazine
-
+ Gump]
 [Asparagus with Cranberries and Pine Nuts](recipe/feb/asparagus-with-cranberries-and-pine-nuts.md)
 
 ### [John Lemon](writer/john-lemon.md) | zestmaster@flavor.magazine
@@ -22,4 +22,6 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 ### [Mac Gump](writer/mac-gump.md) | macgump@flavor.magazine
 
-[Caprese Mac and Cheese](recipe/feb/caprese-mac-and-cheese.md)
+[Pulled Pork Sandwich](recipe/mar/roast-pork-sandwiches.md)
+
+### [Claude Hartwick](writer/claude-hartwick.md) | ch@flavor.magazine
