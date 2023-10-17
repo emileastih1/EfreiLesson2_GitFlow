@@ -28,6 +28,10 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 [Caprese Mac and Cheese](recipe/feb/caprese-mac-and-cheese.md)
 
+### [Vegetarian Chili](writer/mac-gump.md) | michele-oliviero@flavor.magazine
+
+[Caprese Mac and Cheese](recipe/feb/vegetarian-chili-mar.md)
+
 ### [Andy Leeds](writer/andy-leeds.md) | andyleeds@flavor.magazine
 
 [Asparagus with Cranberries and Pine Nuts](recipe/mar/asparagus-with-cranberries-and-pine-nuts.md)
