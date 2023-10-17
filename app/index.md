@@ -23,3 +23,6 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 ### [Mac Gump](writer/mac-gump.md) | macgump@flavor.magazine
 
 [Caprese Mac and Cheese](recipe/feb/caprese-mac-and-cheese.md)
+
+### [Jeremy Lipton](writer/jeremy-lipton.md) | jlipton@flavor.magazine
+[Butternut Squash Soup](recipe/mar/butternut-squash-soup.md)
