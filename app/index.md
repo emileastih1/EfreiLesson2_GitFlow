@@ -24,6 +24,14 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 [Caprese Mac and Cheese](recipe/feb/caprese-mac-and-cheese.md)
 
+### [Magdalena Krysiak](writer/magdalena-krysiak.md) | magkry@flavor.magazine
+
+[Three-Bean Vegetarian Chili](recipe/mar/three-bean-vegetarian-chili.md)
+
+### [Lu YANG](writer/White-Chicken-Chili.md) | luyang@flavor.magazine
+
+[White Chicken Chili](recipe/mar/White-Chicken-Chili.md)
+
 ### [Jonathan Young](writer/jonathan-young.md) | joanthan.young@efrei.net
 
 [Boilermaker Tailgate Chili](recipe/mar/boilermaker-tailgate-chili.md)
