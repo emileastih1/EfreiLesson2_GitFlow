@@ -24,6 +24,10 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 [Caprese Mac and Cheese](recipe/feb/caprese-mac-and-cheese.md)
 
+### [Matteo Ferrea](writer/matteo-ferrea.md) | matteoferrea@flavor.magazine
+
+[Cincinnati Chili I](recipe/mar/Cincinnati_Chili_I.md)
+
 ### [Sam Shilbayeh](writer/sam-shilbayeh.md) | sshilbayeh@flavor.magazine
 
 [Very Veggie and Beef Chili](recipe/mar/very-veggie-and-beef-chili.md)
@@ -67,5 +71,3 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 ### [Sylvester Scone](writer/sylvester-scone.md) | sylvesterscone@flavor.magazine
 
 [Wicked Easy Chili](recipe/mar/wiked-easy-chili.md)
-
-
