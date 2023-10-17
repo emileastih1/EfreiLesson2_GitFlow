@@ -7,14 +7,14 @@ Source: https://www.allrecipes.com/recipe/16235/debdoozies-blue-ribbon-chili/
 ## Ingredients
 
 - 2 pounds ground beef
-- ? medium onion, chopped
-- 2 ? cups tomato sauce
+- 1/2 medium onion, chopped
+- 2 1/2 cups tomato sauce
 - 1 (15 ounce) can light red kidney beans
 - 1 (15 ounce) can dark red kidney beans
 - 1 (8 ounce) jar salsa
-- ? cup chili seasoning mix
+- 1/2 cup chili seasoning mix
 - 1 teaspoon ground black pepper
-- ? teaspoon garlic salt
+- 1/2 teaspoon garlic salt
 
 # Instructions
 
