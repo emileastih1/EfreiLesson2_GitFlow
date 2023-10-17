@@ -23,3 +23,7 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 ### [Mac Gump](writer/mac-gump.md) | macgump@flavor.magazine
 
 [Caprese Mac and Cheese](recipe/feb/caprese-mac-and-cheese.md)
+
+### [Brian Budowick](writer/Brian-Budowick.md) | macgump@flavor.magazine
+
+[Candied Carrots](recipe/mar/candied-carrots-mar.md)
