@@ -23,3 +23,6 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 ### [Mac Gump](writer/mac-gump.md) | macgump@flavor.magazine
 
 [Caprese Mac and Cheese](recipe/feb/caprese-mac-and-cheese.md)
+
+### [Aaron Brown](writer/Quick Oatmeal)| aaron.brown@efrei.net
+[Quick Oatmeal (C:\E_Home-data\CORE TEAM\_SOFTWARE_X\GIT\GIT RECIPE2\EfreiLesson2_GitFlow\app\writer)
