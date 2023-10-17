@@ -4,6 +4,10 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 ## Picks of the Month
 
+### [Josh Robertson](writer/josh-robertson.md) | joshrobertson@flavor.magazine
+
+[Terrific Turkey Chili](recipe/mar/terrific-turkey-chili.md)
+
 ### [Cuba Pudding Jr.](writer/cuba-pudding-jr.md) | cubapud@flavor.magazine
 
 [Quick Oatmeal Pancakes](recipe/feb/quick-oatmeal-pancakes.md)
