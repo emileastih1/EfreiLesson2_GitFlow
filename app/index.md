@@ -28,6 +28,10 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 [Caprese Mac and Cheese](recipe/feb/caprese-mac-and-cheese.md)
 
+ Blue-Ribbon-Chili-mar
+### [Marek Heissler](writer/marek-heissler.md) | marek.heissler@flavor.magazine
+
+[Blue Ribbon Chili](recipe/mar/Blue-Ribbon-Chili.md)
 ### [Aaron Brown](writer/Quick Oatmeal)| aaron.brown@efrei.net
 
 [Quick Oatmeal (C:\E_Home-data\CORE TEAM\_SOFTWARE_X\GIT\GIT RECIPE2\EfreiLesson2_GitFlow\app\writer)
