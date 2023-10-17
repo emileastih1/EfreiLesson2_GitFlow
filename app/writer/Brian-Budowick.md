@@ -1,6 +1,6 @@
 # Brian Budowick 
 
-<img src="http://api.adorable.io/avatars/100/cubapud%40flavor.magazine" height="100" width="100" />
+https://www.allrecipes.com/thmb/IepoAwWdcT1DcQHxu_jn8_0NpTg=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/193148-d5fc982ff5af4ede846399048391bfad.jpg
 
 Recipe Picks:
 

@@ -20,6 +20,10 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 [Salt-and-Vinegar Roasted Potatoes](recipe/feb/salt-and-vinegar-roasted-potatoes.md)
 
-### [Brian Budowick](writer/Brian-Budowick.md) | brianbudowick@flavor.magazine
+### [Mac Gump](writer/mac-gump.md) | macgump@flavor.magazine
+
+[Caprese Mac and Cheese](recipe/feb/caprese-mac-and-cheese.md)
+
+### [Brian Budowick](writer/Brian-Budowick.md) | macgump@flavor.magazine
 
 [Candied Carrots](recipe/mar/candied-carrots-mar.md)
