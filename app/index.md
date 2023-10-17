@@ -24,9 +24,25 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 [Caprese Mac and Cheese](recipe/feb/caprese-mac-and-cheese.md)
 
+
 ### [Dominic Doxen](writer/dominic-doxen.md) | dominicdoxen@flavor.magazine
 
 [Baked Ziti](recipe/mar/baked-ziti.md)
+### [Magdalena Krysiak](writer/magdalena-krysiak.md) | magkry@flavor.magazine
+
+[Three-Bean Vegetarian Chili](recipe/mar/three-bean-vegetarian-chili.md)
+
+### [Lu YANG](writer/White-Chicken-Chili.md) | luyang@flavor.magazine
+
+[White Chicken Chili](recipe/mar/White-Chicken-Chili.md)
+
+### [Jonathan Young](writer/jonathan-young.md) | joanthan.young@efrei.net
+
+[Boilermaker Tailgate Chili](recipe/mar/boilermaker-tailgate-chili.md)
+
+### [Jeremy Lipton](writer/jeremy-lipton.md) | jlipton@flavor.magazine
+
+[Butternut Squash Soup](recipe/mar/butternut-squash-soup.md)
 
 ### [Daniel Fontana](writer/daniel-fontana.md) | danielfontana@flavor.magazine
 
@@ -36,3 +52,6 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 [Candied Carrots](recipe/mar/candied-carrots-mar.md)
 
+### [Sylvester Scone](writer/sylvester-scone.md) | sylvesterscone@flavor.magazine
+
+[Wicked Easy Chili](recipe/mar/wiked-easy-chili.md)
