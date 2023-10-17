@@ -23,3 +23,7 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 ### [Mac Gump](writer/mac-gump.md) | macgump@flavor.magazine
 
 [Caprese Mac and Cheese](recipe/feb/caprese-mac-and-cheese.md)
+
+### [Marek Heissler](writer/marek-heissler.md) | marek.heissler@flavor.magazine
+
+[Blue Ribbon Chili](recipe/mar/Blue-Ribbon-Chili.md)
