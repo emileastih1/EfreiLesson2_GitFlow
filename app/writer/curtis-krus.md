@@ -5,4 +5,4 @@
 Recipe Picks:
 
 - January: [Grilled Peach Salad](../recipe/jan/grilled-peach-salad.md)
-- March: [Quick Oatmeal Pancakes](../recipe/mar/instant-pot-chicken-paprikash.md)
+- March: [Instant Pot Chicken Paprikash](../recipe/mar/instant-pot-chicken-paprikash.md)
