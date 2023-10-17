@@ -25,7 +25,12 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 [Caprese Mac and Cheese](recipe/feb/caprese-mac-and-cheese.md)
 
 ### [Lu YANG](writer/White-Chicken-Chili.md) | luyang@flavor.magazine
+
 [White Chicken Chili](recipe/mar/White-Chicken-Chili.md)
+
+### [Jeremy Lipton](writer/jeremy-lipton.md) | jlipton@flavor.magazine
+
+[Butternut Squash Soup](recipe/mar/butternut-squash-soup.md)
 
 ### [Daniel Fontana](writer/daniel-fontana.md) | danielfontana@flavor.magazine
 
@@ -33,4 +38,3 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 ### [Brian Budowick](writer/Brian-Budowick.md) | macgump@flavor.magazine
 
-[Candied Carrots](recipe/mar/candied-carrots-mar.md)
