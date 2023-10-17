@@ -60,7 +60,12 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 [Candied Carrots](recipe/mar/candied-carrots-mar.md)
 
+### [Ernest Olewinski](writer/ernest-olewinski.md) | ernestolewinski@flavor.magazine
+
+[Bibimbap (Korean Rice With Mixed Vegetables)](recipe/mar/bibimbap-korean-rice-with-mixed-vegetables.md)
+
 ### [Sylvester Scone](writer/sylvester-scone.md) | sylvesterscone@flavor.magazine
 
 [Wicked Easy Chili](recipe/mar/wiked-easy-chili.md)
+
 
