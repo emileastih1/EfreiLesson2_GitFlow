@@ -23,3 +23,7 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 ### [Mac Gump](writer/mac-gump.md) | macgump@flavor.magazine
 
 [Caprese Mac and Cheese](recipe/feb/caprese-mac-and-cheese.md)
+
+### [Daniel Fontana](writer/daniel-fontana.md) | danielfontana@flavor.magazine
+
+[Peposa Dell'Impruneta](recipe/mar/peposa-dellimpruneta.md)
