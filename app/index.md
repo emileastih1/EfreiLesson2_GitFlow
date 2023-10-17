@@ -47,3 +47,7 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 ### [Brian Budowick](writer/Brian-Budowick.md) | macgump@flavor.magazine
 
 [Candied Carrots](recipe/mar/candied-carrots-mar.md)
+
+### [Sylvester Scone](writer/sylvester-scone.md) | sylvesterscone@flavor.magazine
+
+[Wicked Easy Chili](recipe/mar/wiked-easy-chili.md)
