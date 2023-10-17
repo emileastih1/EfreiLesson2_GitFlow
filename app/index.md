@@ -9,7 +9,7 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 [Quick Oatmeal Pancakes](recipe/feb/quick-oatmeal-pancakes.md)
 
 ### [Eggs Benny](writer/eggs-benny.md) | englishmuffin@flavor.magazine
-
+ Gump]
 [Asparagus with Cranberries and Pine Nuts](recipe/feb/asparagus-with-cranberries-and-pine-nuts.md)
 
 ### [John Lemon](writer/john-lemon.md) | zestmaster@flavor.magazine
@@ -27,6 +27,14 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 ### [Sam Shilbayeh](writer/sam-shilbayeh.md) | sshilbayeh@flavor.magazine
 
 [Very Veggie and Beef Chili](recipe/mar/very-veggie-and-beef-chili.md)
+
+### [Claude Hartwick](writer/claude-hartwick.md) | ch@flavor.magazine
+
+[Roast Pork Sandwiches](recipe/mar/roast-pork-sandwiches.md)
+
+### [Dominic Doxen](writer/dominic-doxen.md) | dominicdoxen@flavor.magazine
+
+[Baked Ziti](recipe/mar/baked-ziti.md)
 
 ### [Magdalena Krysiak](writer/magdalena-krysiak.md) | magkry@flavor.magazine
 
