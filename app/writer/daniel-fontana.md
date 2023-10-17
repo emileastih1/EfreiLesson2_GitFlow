@@ -5,4 +5,4 @@
 Recipe Picks:
 
 - January: [Grilled Peach Salad](../recipe/jan/grilled-peach-salad.md)
-- March: [Peposa Dell'Impruneta](..recipe/mar/peposa-dellimpruneta.md)
+- March: [Peposa Dell'Impruneta](../recipe/mar/peposa-dellimpruneta.md)
