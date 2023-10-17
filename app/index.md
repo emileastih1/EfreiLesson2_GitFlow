@@ -24,6 +24,14 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 [Caprese Mac and Cheese](recipe/feb/caprese-mac-and-cheese.md)
 
+### [Jonathan Young](writer/jonathan-young.md) | joanthan.young@efrei.net
+
+[Boilermaker Tailgate Chili](recipe/mar/boilermaker-tailgate-chili.md)
+
+### [Jeremy Lipton](writer/jeremy-lipton.md) | jlipton@flavor.magazine
+
+[Butternut Squash Soup](recipe/mar/butternut-squash-soup.md)
+
 ### [Daniel Fontana](writer/daniel-fontana.md) | danielfontana@flavor.magazine
 
 [Peposa Dell'Impruneta](recipe/mar/peposa-dellimpruneta.md)
