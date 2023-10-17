@@ -23,3 +23,7 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 ### [Mac Gump](writer/mac-gump.md) | macgump@flavor.magazine
 
 [Caprese Mac and Cheese](recipe/feb/caprese-mac-and-cheese.md)
+
+### [Vegetarian Chili](writer/mac-gump.md) | michele-oliviero@flavor.magazine
+
+[Caprese Mac and Cheese](recipe/feb/vegetarian-chili-mar.md)
