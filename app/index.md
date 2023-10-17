@@ -28,6 +28,10 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 [Roast Pork Sandwiches](recipe/mar/roast-pork-sandwiches.md)
 
+### [Dominic Doxen](writer/dominic-doxen.md) | dominicdoxen@flavor.magazine
+
+[Baked Ziti](recipe/mar/baked-ziti.md)
+
 ### [Magdalena Krysiak](writer/magdalena-krysiak.md) | magkry@flavor.magazine
 
 [Three-Bean Vegetarian Chili](recipe/mar/three-bean-vegetarian-chili.md)
