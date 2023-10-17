@@ -9,7 +9,7 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 [Quick Oatmeal Pancakes](recipe/feb/quick-oatmeal-pancakes.md)
 
 ### [Eggs Benny](writer/eggs-benny.md) | englishmuffin@flavor.magazine
-
+ Gump]
 [Asparagus with Cranberries and Pine Nuts](recipe/feb/asparagus-with-cranberries-and-pine-nuts.md)
 
 ### [John Lemon](writer/john-lemon.md) | zestmaster@flavor.magazine
@@ -23,6 +23,30 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 ### [Mac Gump](writer/mac-gump.md) | macgump@flavor.magazine
 
 [Caprese Mac and Cheese](recipe/feb/caprese-mac-and-cheese.md)
+
+### [Sam Shilbayeh](writer/sam-shilbayeh.md) | sshilbayeh@flavor.magazine
+
+[Very Veggie and Beef Chili](recipe/mar/very-veggie-and-beef-chili.md)
+
+### [Claude Hartwick](writer/claude-hartwick.md) | ch@flavor.magazine
+
+[Roast Pork Sandwiches](recipe/mar/roast-pork-sandwiches.md)
+
+### [Dominic Doxen](writer/dominic-doxen.md) | dominicdoxen@flavor.magazine
+
+[Baked Ziti](recipe/mar/baked-ziti.md)
+
+### [Magdalena Krysiak](writer/magdalena-krysiak.md) | magkry@flavor.magazine
+
+[Three-Bean Vegetarian Chili](recipe/mar/three-bean-vegetarian-chili.md)
+
+### [Lu YANG](writer/White-Chicken-Chili.md) | luyang@flavor.magazine
+
+[White Chicken Chili](recipe/mar/White-Chicken-Chili.md)
+
+### [Jonathan Young](writer/jonathan-young.md) | joanthan.young@efrei.net
+
+[Boilermaker Tailgate Chili](recipe/mar/boilermaker-tailgate-chili.md)
 
 ### [Jeremy Lipton](writer/jeremy-lipton.md) | jlipton@flavor.magazine
 
@@ -39,3 +63,9 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 ### [Ernest Olewinski](writer/ernest-olewinski.md) | ernestolewinski@flavor.magazine
 
 [Bibimbap (Korean Rice With Mixed Vegetables)](recipe/mar/bibimbap-korean-rice-with-mixed-vegetables.md)
+
+### [Sylvester Scone](writer/sylvester-scone.md) | sylvesterscone@flavor.magazine
+
+[Wicked Easy Chili](recipe/mar/wiked-easy-chili.md)
+
+
