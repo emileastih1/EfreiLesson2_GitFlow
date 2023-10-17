@@ -23,3 +23,6 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 ### [Mac Gump](writer/mac-gump.md) | macgump@flavor.magazine
 
 [Caprese Mac and Cheese](recipe/feb/caprese-mac-and-cheese.md)
+
+### [Matteo Ferrea](writer/matteo-ferrea.md) | matteoferrea@flavor.magazine
+[Cincinnati Chili I](recipe/mar/Cincinnati_Chili_I.md)
