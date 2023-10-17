@@ -5,5 +5,5 @@
 Recipe Picks:
 
 - January: [Grilled Peach Salad](../recipe/jan/grilled-peach-salad.md)
-- February: [Quick Oatmeal Pancakes](../recipe/feb/quick-oatmeal-pancakes)
+- February: [Quick Oatmeal Pancakes](../recipe/feb/quick-oatmeal-pancakes.md)
 - March: [Blue Ribbon Chili](../recipe/mar/Blue-Ribbon-Chili.md)
