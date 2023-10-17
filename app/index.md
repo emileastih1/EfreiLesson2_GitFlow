@@ -24,10 +24,13 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 [Caprese Mac and Cheese](recipe/feb/caprese-mac-and-cheese.md)
 
-
 ### [Sam Shilbayeh](writer/sam-shilbayeh.md) | sshilbayeh@flavor.magazine
 
 [Very Veggie and Beef Chili](recipe/mar/very-veggie-and-beef-chili.md)
+
+### [Magdalena Krysiak](writer/magdalena-krysiak.md) | magkry@flavor.magazine
+
+[Three-Bean Vegetarian Chili](recipe/mar/three-bean-vegetarian-chili.md)
 
 ### [Lu YANG](writer/White-Chicken-Chili.md) | luyang@flavor.magazine
 
@@ -48,4 +51,8 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 ### [Brian Budowick](writer/Brian-Budowick.md) | macgump@flavor.magazine
 
 [Candied Carrots](recipe/mar/candied-carrots-mar.md)
+
+### [Sylvester Scone](writer/sylvester-scone.md) | sylvesterscone@flavor.magazine
+
+[Wicked Easy Chili](recipe/mar/wiked-easy-chili.md)
 
